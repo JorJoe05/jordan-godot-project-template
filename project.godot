@@ -17,6 +17,7 @@ config/icon="res://icon.png"
 [autoload]
 
 DebugActions="*res://Scripts/Autoloads/debug_actions.gd"
+PauseManager="*res://Scripts/Autoloads/pause_manager.gd"
 
 [editor]
 
