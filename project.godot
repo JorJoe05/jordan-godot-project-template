@@ -13,3 +13,11 @@ config_version=5
 config/name="Jordan's Useful Godot Tools"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.png"
+
+[autoload]
+
+DebugActions="*res://Scripts/Autoloads/debug_actions.gd"
+
+[editor]
+
+script/templates_search_path="res://Scripts/Script Templates"
