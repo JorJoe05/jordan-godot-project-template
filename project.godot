@@ -17,7 +17,7 @@ config/icon="res://icon.png"
 [autoload]
 
 DebugActions="*res://scripts/autoloads/debug_actions.gd"
-PauseManager="*res://scripts/autoloads/pause_manager.gd"
+PauseManager="*res://bundles/pause_manager/scripts/autoloads/pause_manager.gd"
 PhantomCameraManager="*res://addons/phantom_camera/scripts/managers/phantom_camera_manager.gd"
 
 [editor_plugins]
